@@ -5,3 +5,5 @@ Built.
 
 Assign variables to be passed into functions. 
 numOne, numTwo, operand
+
+set up html and css. 

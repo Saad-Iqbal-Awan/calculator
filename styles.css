@@ -1,8 +1,51 @@
 * {
     padding: 0;
     margin: 0;
+    /* border: 2px solid black; */
+    box-sizing: border-box;
 }
 
 body { 
     background-color: bisque;
 }
+
+.container {
+    width: 24%;
+    max-width: 42%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20vh;
+    margin-bottom: 30vh;
+    display: flex;
+    flex-direction: column;
+    /* flex-flow: nowrap; */
+    border: 2px black solid;
+}
+
+.first-row, .second-row, .third-row, .fourth-row, .fifth-row {
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.display {
+    height: 10vh;
+    text-align: end;
+    font-size: 8vh;
+}
+
+button {
+    height: 10vh;
+    width: 12vh;
+    flex-grow: 1;
+}
+
+.zero  {
+    flex-grow: 4;
+    width: 24vh;
+}
+
+.decimal, .equal {
+    flex-grow: 2;
+}
+
