@@ -1,1 +1,7 @@
 Following are the steps to build a calculator: 
+
+Build functions for addition, subtraction, multiplication and subtraction. 
+Built. 
+
+Assign variables to be passed into functions. 
+numOne, numTwo, operand
