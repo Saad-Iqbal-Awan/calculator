@@ -7,3 +7,17 @@ Assign variables to be passed into functions.
 numOne, numTwo, operand
 
 set up html and css. 
+
+Let's do js now. 
+
+Let's make it work for one digit each. 
+
+Event listener on all buttons - giving them values. 
+
+
+
+When you press equal, the function operate runs with the variables a, b and operand. 
+
+Maybe I can create an array of inputs. And go from there. And then can empty array at the end. 
+
+Should probably use queryselector all and the target attribute to simplify js. (later)
